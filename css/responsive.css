@@ -1,0 +1,1216 @@
+@media (min-width:320px) and (max-width:575.99px){
+
+    /* ================= navbar responsive start==================== */
+   
+    .navbar-toggler{
+        color: white;
+        font-size: 16px;
+        border: 1px solid white;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 !important;
+        outline: 0px !important;
+	
+    }
+    .navbar-collapse{
+       background: rgba(255, 255, 255, 0.568);
+       
+       margin-top: 14px;
+       
+       border-radius: 10px;
+
+    }
+
+    .navbar-nav{
+        align-items: center;
+        padding: 20px 0;
+        row-gap: 10px;
+        
+    }
+    .nav-button {
+	
+	padding: 8px 30px;
+      margin-left: 0px;
+      margin-bottom: 15px;
+	
+    }
+    .nav-customise{
+
+    text-align: center;
+  
+    }
+     /* ================= navbar responsive done ==================== */
+
+     /* ================= bannar responsive start ==================== */
+.banner {
+	
+	padding: 68px 0px;
+}
+.banner h1 {
+	font-size: 32px;
+	
+    line-height: 50px;
+}
+
+.banner p {
+	font-size: 14px;
+	padding-bottom: 15px;
+	width:auto;
+}
+.common-button {
+	
+	font-size: 14px;
+	padding: 8px 20px;
+	
+}
+.banner .icon-button {
+	
+	margin-left: 20px;
+}
+
+.banner .banner-image img{
+
+    width: 90%;
+
+}
+.banner .banner-image{
+
+    text-align: center;
+    padding-top: 30px;
+}
+
+  /* ================= bannar responsive done ==================== */
+  /* ================= work part responsive start ==================== */
+.work {
+	
+	padding: 68px 0px;
+}
+.common-title h2 {
+	font-size: 30px;
+	
+}
+
+.common-title p {
+	font-size: 14px;
+	width: auto;
+}
+
+.common-title .common-animation {
+	font-size: 14px;
+	
+}
+
+.work .box {
+	display: flex;
+	flex-wrap: wrap;
+	row-gap: 48px;
+    flex-direction: column;
+    margin-top: 40px;
+}
+.work .box .item {
+
+    width: 100%;
+    padding: 0 5px;
+}
+
+.work .box .item p {
+	font-size: 14px;
+	
+	width:auto;
+}
+  /* ================= work part responsive done ==================== */
+
+  /* ================= project responsive start ==================== */
+.project {
+	padding: 68px 0px;
+}
+
+.project h4 {
+	font-size: 32px;
+	
+}
+
+
+
+.project .overlay h2 {
+	font-size: 15px;
+	padding-top: 26px;
+	padding-left: 13px;
+	padding-right: 4px;
+	width: auto;
+}
+.project .overlay p {
+	font-size: 13px;
+	padding-top: 4px;
+	padding-right: 4px;
+	padding-left: 13px;
+}
+.project .overlay .common-animation a {
+	font-size: 14px;
+	padding-top: 20px;
+	padding-left: 12px;
+	padding-right: 0px;
+}
+
+
+  /* ================= project responsive done ==================== */
+
+  /* ================= feature responsive start ==================== */
+.feature {
+	padding-top: 68px;
+}
+.feature h2 {
+	font-size: 32px;
+	width: auto;
+	padding: 9px 0 32px 0;
+}
+.feature .card {
+	width: 100% !important;
+	padding: 28px 0px 48px 16px;
+	
+}
+.feature .card .card-title {
+	font-size: 18px;
+	padding: 10px 0 10px 0;
+}
+.feature .card .card-text {
+	font-size: 14px;
+	width: auto;
+}
+  /* ================= feature responsive done ==================== */
+
+  /* ================= about responsive start ==================== */
+.about {
+	padding: 68px;
+}
+
+
+.about h2 {
+	font-size: 19px;
+	width: auto;
+	
+}
+.about p {
+	font-size: 14px;
+	width: auto;
+	
+	padding-top: 12px;
+}
+.about h4 {
+	font-size: 20px;
+	padding-bottom: 32px;
+    padding-top: 18px;
+}
+
+  /* ================= about responsive done ==================== */
+
+
+  /* ================= FAQ responsive start ==================== */
+.faq {
+	padding-top: 68px;
+}
+
+.accordion-header {
+	
+	padding-top: 24px;
+}
+.faq .accordion-button span {
+	
+	padding-right: 20px;
+}
+.faq .accordion-button {
+	font-size: 15px;
+}
+  /* ================= FAQ responsive done ==================== */
+  
+  /* ================= contact responsive start ==================== */
+.contact img {
+	width: 95%;
+}
+.contact .overlay {
+	width: 95%;
+	
+	padding: 28px 13px 0 16px;
+	
+}
+.contact h2 {
+	font-size: 28px;
+	/* line-height: 10px; */
+	width: auto;
+	padding-bottom: 11px;
+
+}
+
+.contact p {
+	font-size: 14px;
+	
+	width: auto;
+	
+}
+.contact .contact-right {
+	background: #123234;
+	padding: 22px 37px 0 18px;
+	width: 95%;
+}
+
+
+.contact .contact-right button {
+	width: auto;
+	padding: 0px 73px;
+	border-radius: 41px;
+	font-size: 14px;
+}
+
+
+
+/* ================= contact responsive done ==================== */
+
+/* ================= blog responsive start ==================== */
+.blog {
+	padding: 54px;
+}
+.blog .card {
+	width: auto !important;
+	
+}
+/* ================= blog responsive done ==================== */
+
+/* ================= footer responsive start ==================== */
+
+.footer .first {
+	font-size: 14px;
+	padding-top: 28px;
+	width: auto;
+}
+.footer .footer-box {
+	width: auto;
+	margin-top: 40px;
+	
+}
+
+
+.footer h4 {
+	font-size: 32px;
+	
+	padding-top: 30px;
+}
+
+.footer .second {
+	font-size: 14px;
+}
+
+/* ================= footer responsive done ==================== */
+
+}
+@media (min-width:576px) and (max-width:767.99px){
+
+    /* ================= navbar responsive start==================== */
+   
+    .navbar-toggler{
+        color: white;
+        font-size: 16px;
+        border: 1px solid white;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 !important;
+        outline: 0px !important;
+	
+    }
+    .navbar-collapse{
+       background: rgba(255, 255, 255, 0.568);
+       
+       margin-top: 14px;
+       
+       border-radius: 10px;
+
+    }
+
+    .navbar-nav{
+        align-items: center;
+        padding: 20px 0;
+        row-gap: 10px;
+        
+    }
+    .nav-button {
+	
+	padding: 8px 30px;
+      margin-left: 0px;
+      margin-bottom: 15px;
+	
+    }
+    .nav-customise{
+
+    text-align: center;
+  
+    }
+     /* ================= navbar responsive done ==================== */
+
+     /* ================= bannar responsive start ==================== */
+.banner {
+	
+	padding: 68px 0px;
+}
+.banner h1 {
+	font-size: 32px;
+	
+    line-height: 50px;
+}
+
+.banner p {
+	font-size: 14px;
+	padding-bottom: 15px;
+	width:auto;
+}
+.common-button {
+	
+	font-size: 14px;
+	padding: 8px 20px;
+	
+}
+.banner .icon-button {
+	
+	margin-left: 20px;
+}
+
+.banner .banner-image img{
+
+    width: 90%;
+
+}
+.banner .banner-image{
+
+    text-align: center;
+    padding-top: 30px;
+}
+
+  /* ================= bannar responsive done ==================== */
+  /* ================= work part responsive start ==================== */
+.work {
+	
+	padding: 68px 0px;
+}
+.common-title h2 {
+	font-size: 30px;
+	
+}
+
+.common-title p {
+	font-size: 14px;
+	width: auto;
+}
+
+.common-title .common-animation {
+	font-size: 14px;
+	
+}
+
+.work .box {
+	display: flex;
+	flex-wrap: wrap;
+	row-gap: 48px;
+    flex-direction: column;
+    margin-top: 40px;
+}
+.work .box .item {
+
+    width: 100%;
+    padding: 0 5px;
+}
+
+.work .box .item p {
+	font-size: 14px;
+	
+	width:auto;
+}
+  /* ================= work part responsive done ==================== */
+
+  /* ================= project responsive start ==================== */
+.project {
+	padding: 68px 0px;
+}
+
+.project h4 {
+	font-size: 32px;
+	
+}
+
+
+
+.project .overlay h2 {
+	font-size: 15px;
+	padding-top: 26px;
+	padding-left: 13px;
+	padding-right: 4px;
+	width: auto;
+}
+.project .overlay p {
+	font-size: 13px;
+	padding-top: 4px;
+	padding-right: 4px;
+	padding-left: 13px;
+}
+.project .overlay .common-animation a {
+	font-size: 14px;
+	padding-top: 20px;
+	padding-left: 12px;
+	padding-right: 0px;
+}
+
+
+  /* ================= project responsive done ==================== */
+
+  /* ================= feature responsive start ==================== */
+.feature {
+	padding-top: 68px;
+}
+.feature h2 {
+	font-size: 32px;
+	width: auto;
+	padding: 9px 0 32px 0;
+}
+.feature .card {
+	width: 100% !important;
+	padding: 28px 0px 48px 16px;
+	
+}
+.feature .card .card-title {
+	font-size: 18px;
+	padding: 10px 0 10px 0;
+}
+.feature .card .card-text {
+	font-size: 14px;
+	width: auto;
+}
+  /* ================= feature responsive done ==================== */
+
+  /* ================= about responsive start ==================== */
+.about {
+	padding: 68px;
+}
+
+
+.about h2 {
+	font-size: 19px;
+	width: auto;
+	
+}
+.about p {
+	font-size: 14px;
+	width: auto;
+	
+	padding-top: 12px;
+}
+.about h4 {
+	font-size: 20px;
+	padding-bottom: 32px;
+    padding-top: 18px;
+}
+
+  /* ================= about responsive done ==================== */
+
+
+  /* ================= FAQ responsive start ==================== */
+.faq {
+	padding-top: 68px;
+}
+
+.accordion-header {
+	
+	padding-top: 24px;
+}
+.faq .accordion-button span {
+	
+	padding-right: 20px;
+}
+.faq .accordion-button {
+	font-size: 15px;
+}
+  /* ================= FAQ responsive done ==================== */
+  
+  /* ================= contact responsive start ==================== */
+.contact img {
+	width: 95%;
+}
+.contact .overlay {
+	width: 95%;
+	
+	padding: 28px 13px 0 16px;
+	
+}
+.contact h2 {
+	font-size: 28px;
+	/* line-height: 10px; */
+	width: auto;
+	padding-bottom: 11px;
+
+}
+
+.contact p {
+	font-size: 14px;
+	
+	width: auto;
+	
+}
+.contact .contact-right {
+	background: #123234;
+	padding: 22px 37px 0 18px;
+	width: 95%;
+}
+
+
+.contact .contact-right button {
+	width: auto;
+	padding: 0px 73px;
+	border-radius: 41px;
+	font-size: 14px;
+}
+
+
+
+/* ================= contact responsive done ==================== */
+
+/* ================= blog responsive start ==================== */
+.blog {
+	padding: 54px;
+}
+.blog .card {
+	width: auto !important;
+	
+}
+/* ================= blog responsive done ==================== */
+
+/* ================= footer responsive start ==================== */
+
+.footer .first {
+	font-size: 14px;
+	padding-top: 28px;
+	width: auto;
+}
+.footer .footer-box {
+	width: auto;
+	margin-top: 40px;
+	
+}
+
+
+.footer h4 {
+	font-size: 32px;
+	
+	padding-top: 30px;
+}
+
+.footer .second {
+	font-size: 14px;
+}
+
+/* ================= footer responsive done ==================== */
+
+}
+@media (min-width:768px) and (max-width:991.99px){
+
+    /* ================= navbar responsive start==================== */
+   
+    .navbar-toggler{
+        color: white;
+        font-size: 16px;
+        border: 1px solid white;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 !important;
+        outline: 0px !important;
+	
+    }
+    .navbar-collapse{
+       background: rgba(255, 255, 255, 0.568);
+       
+       margin-top: 14px;
+       
+       border-radius: 10px;
+
+    }
+
+    .navbar-nav{
+        align-items: center;
+        padding: 20px 0;
+        row-gap: 10px;
+        
+    }
+    .nav-button {
+	
+	padding: 8px 30px;
+      margin-left: 0px;
+      margin-bottom: 15px;
+	
+    }
+    .nav-customise{
+
+    text-align: center;
+  
+    }
+     /* ================= navbar responsive done ==================== */
+
+     /* ================= bannar responsive start ==================== */
+.banner {
+	
+	padding: 68px 0px;
+}
+.banner h1 {
+	font-size: 32px;
+	
+    line-height: 50px;
+}
+
+.banner p {
+	font-size: 14px;
+	padding-bottom: 15px;
+	width:auto;
+}
+.common-button {
+	
+	font-size: 14px;
+	padding: 8px 20px;
+	
+}
+.banner .icon-button {
+	
+	margin-left: 20px;
+}
+
+.banner .banner-image img{
+
+    width: 90%;
+
+}
+.banner .banner-image{
+
+    text-align: center;
+    padding-top: 30px;
+}
+
+  /* ================= bannar responsive done ==================== */
+  /* ================= work part responsive start ==================== */
+.work {
+	
+	padding: 68px 0px;
+}
+.common-title h2 {
+	font-size: 30px;
+	
+}
+
+.common-title p {
+	font-size: 14px;
+	width: auto;
+}
+
+.common-title .common-animation {
+	font-size: 14px;
+	
+}
+
+.work .box {
+	display: flex;
+	flex-wrap: wrap;
+	row-gap: 48px;
+    flex-direction: column;
+    margin-top: 40px;
+}
+.work .box .item {
+
+    width: 100%;
+    padding: 0 5px;
+}
+
+.work .box .item p {
+	font-size: 14px;
+	
+	width:auto;
+}
+  /* ================= work part responsive done ==================== */
+
+  /* ================= project responsive start ==================== */
+.project {
+	padding: 68px 0px;
+}
+
+.project h4 {
+	font-size: 32px;
+	
+}
+
+
+
+.project .overlay h2 {
+	font-size: 15px;
+	padding-top: 26px;
+	padding-left: 13px;
+	padding-right: 4px;
+	width: auto;
+}
+.project .overlay p {
+	font-size: 13px;
+	padding-top: 4px;
+	padding-right: 4px;
+	padding-left: 13px;
+}
+.project .overlay .common-animation a {
+	font-size: 14px;
+	padding-top: 20px;
+	padding-left: 12px;
+	padding-right: 0px;
+}
+
+
+  /* ================= project responsive done ==================== */
+
+  /* ================= feature responsive start ==================== */
+.feature {
+	padding-top: 68px;
+}
+.feature h2 {
+	font-size: 32px;
+	width: auto;
+	padding: 9px 0 32px 0;
+}
+.feature .card {
+	width: 100% !important;
+	padding: 28px 0px 48px 16px;
+	
+}
+.feature .card .card-title {
+	font-size: 18px;
+	padding: 10px 0 10px 0;
+}
+.feature .card .card-text {
+	font-size: 14px;
+	width: auto;
+}
+  /* ================= feature responsive done ==================== */
+
+  /* ================= about responsive start ==================== */
+.about {
+	padding: 68px;
+}
+
+
+.about h2 {
+	font-size: 19px;
+	width: auto;
+	
+}
+.about p {
+	font-size: 14px;
+	width: auto;
+	
+	padding-top: 12px;
+}
+.about h4 {
+	font-size: 20px;
+	padding-bottom: 32px;
+    padding-top: 18px;
+}
+
+  /* ================= about responsive done ==================== */
+
+
+  /* ================= FAQ responsive start ==================== */
+.faq {
+	padding-top: 68px;
+}
+
+.accordion-header {
+	
+	padding-top: 24px;
+}
+.faq .accordion-button span {
+	
+	padding-right: 20px;
+}
+.faq .accordion-button {
+	font-size: 15px;
+}
+  /* ================= FAQ responsive done ==================== */
+  
+  /* ================= contact responsive start ==================== */
+.contact img {
+	width: 95%;
+}
+.contact .overlay {
+	width: 95%;
+	
+	padding: 28px 13px 0 16px;
+	
+}
+.contact h2 {
+	font-size: 28px;
+	/* line-height: 10px; */
+	width: auto;
+	padding-bottom: 11px;
+
+}
+
+.contact p {
+	font-size: 14px;
+	
+	width: auto;
+	
+}
+.contact .contact-right {
+	background: #123234;
+	padding: 22px 37px 0 18px;
+	width: 95%;
+}
+
+
+.contact .contact-right button {
+	width: auto;
+	padding: 0px 73px;
+	border-radius: 41px;
+	font-size: 14px;
+}
+
+
+
+/* ================= contact responsive done ==================== */
+
+/* ================= blog responsive start ==================== */
+.blog {
+	padding: 54px;
+}
+.blog .card {
+	width: auto !important;
+	
+}
+/* ================= blog responsive done ==================== */
+
+/* ================= footer responsive start ==================== */
+
+.footer .first {
+	font-size: 14px;
+	padding-top: 28px;
+	width: auto;
+}
+.footer .footer-box {
+	width: auto;
+	margin-top: 40px;
+	
+}
+
+
+.footer h4 {
+	font-size: 32px;
+	
+	padding-top: 30px;
+}
+
+.footer .second {
+	font-size: 14px;
+}
+
+/* ================= footer responsive done ==================== */
+
+}
+@media (min-width:992px) and (max-width:1199.99px){
+
+    /* ================= navbar responsive start==================== */
+   
+    .navbar-toggler{
+        color: white;
+        font-size: 16px;
+        border: 1px solid white;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 !important;
+        outline: 0px !important;
+	
+    }
+    .navbar-collapse{
+       background: rgba(255, 255, 255, 0.568);
+       
+       margin-top: 14px;
+       
+       border-radius: 10px;
+
+    }
+
+    .navbar-nav{
+        align-items: center;
+        padding: 20px 0;
+        row-gap: 10px;
+        
+    }
+    .nav-button {
+	
+	padding: 8px 30px;
+      margin-left: 0px;
+      margin-bottom: 15px;
+	
+    }
+    .nav-customise{
+
+    text-align: center;
+  
+    }
+     /* ================= navbar responsive done ==================== */
+
+     /* ================= bannar responsive start ==================== */
+.banner {
+	
+	padding: 68px 0px;
+}
+.banner h1 {
+	font-size: 32px;
+	
+    line-height: 50px;
+}
+
+.banner p {
+	font-size: 14px;
+	padding-bottom: 15px;
+	width:auto;
+}
+.common-button {
+	
+	font-size: 14px;
+	padding: 8px 20px;
+	
+}
+.banner .icon-button {
+	
+	margin-left: 20px;
+}
+
+.banner .banner-image img{
+
+    width: 90%;
+
+}
+.banner .banner-image{
+
+    text-align: center;
+    padding-top: 30px;
+}
+
+  /* ================= bannar responsive done ==================== */
+  /* ================= work part responsive start ==================== */
+.work {
+	
+	padding: 68px 0px;
+}
+.common-title h2 {
+	font-size: 30px;
+	
+}
+
+.common-title p {
+	font-size: 14px;
+	width: auto;
+}
+
+.common-title .common-animation {
+	font-size: 14px;
+	
+}
+
+.work .box {
+	display: flex;
+	flex-wrap: wrap;
+	row-gap: 48px;
+    flex-direction: column;
+    margin-top: 40px;
+}
+.work .box .item {
+
+    width: 100%;
+    padding: 0 5px;
+}
+
+.work .box .item p {
+	font-size: 14px;
+	
+	width:auto;
+}
+  /* ================= work part responsive done ==================== */
+
+  /* ================= project responsive start ==================== */
+.project {
+	padding: 68px 0px;
+}
+
+.project h4 {
+	font-size: 32px;
+	
+}
+
+
+
+.project .overlay h2 {
+	font-size: 15px;
+	padding-top: 26px;
+	padding-left: 13px;
+	padding-right: 4px;
+	width: auto;
+}
+.project .overlay p {
+	font-size: 13px;
+	padding-top: 4px;
+	padding-right: 4px;
+	padding-left: 13px;
+}
+.project .overlay .common-animation a {
+	font-size: 14px;
+	padding-top: 20px;
+	padding-left: 12px;
+	padding-right: 0px;
+}
+
+
+  /* ================= project responsive done ==================== */
+
+  /* ================= feature responsive start ==================== */
+.feature {
+	padding-top: 68px;
+}
+.feature h2 {
+	font-size: 32px;
+	width: auto;
+	padding: 9px 0 32px 0;
+}
+.feature .card {
+	width: 100% !important;
+	padding: 28px 0px 48px 16px;
+	
+}
+.feature .card .card-title {
+	font-size: 18px;
+	padding: 10px 0 10px 0;
+}
+.feature .card .card-text {
+	font-size: 14px;
+	width: auto;
+}
+  /* ================= feature responsive done ==================== */
+
+  /* ================= about responsive start ==================== */
+.about {
+	padding: 68px;
+}
+
+
+.about h2 {
+	font-size: 19px;
+	width: auto;
+	
+}
+.about p {
+	font-size: 14px;
+	width: auto;
+	
+	padding-top: 12px;
+}
+.about h4 {
+	font-size: 20px;
+	padding-bottom: 32px;
+    padding-top: 18px;
+}
+
+  /* ================= about responsive done ==================== */
+
+
+  /* ================= FAQ responsive start ==================== */
+.faq {
+	padding-top: 68px;
+}
+
+.accordion-header {
+	
+	padding-top: 24px;
+}
+.faq .accordion-button span {
+	
+	padding-right: 20px;
+}
+.faq .accordion-button {
+	font-size: 15px;
+}
+  /* ================= FAQ responsive done ==================== */
+  
+  /* ================= contact responsive start ==================== */
+.contact img {
+	width: 95%;
+}
+.contact .overlay {
+	width: 95%;
+	
+	padding: 28px 13px 0 16px;
+	
+}
+.contact h2 {
+	font-size: 28px;
+	/* line-height: 10px; */
+	width: auto;
+	padding-bottom: 11px;
+
+}
+
+.contact p {
+	font-size: 14px;
+	
+	width: auto;
+	
+}
+.contact .contact-right {
+	background: #123234;
+	padding: 22px 37px 0 18px;
+	width: 95%;
+}
+
+
+.contact .contact-right button {
+	width: auto;
+	padding: 0px 73px;
+	border-radius: 41px;
+	font-size: 14px;
+}
+
+
+
+/* ================= contact responsive done ==================== */
+
+/* ================= blog responsive start ==================== */
+.blog {
+	padding: 54px;
+}
+.blog .card {
+	width: auto !important;
+	
+}
+/* ================= blog responsive done ==================== */
+
+/* ================= footer responsive start ==================== */
+
+.footer .first {
+	font-size: 14px;
+	padding-top: 28px;
+	width: auto;
+}
+.footer .footer-box {
+	width: auto;
+	margin-top: 40px;
+	
+}
+
+
+.footer h4 {
+	font-size: 32px;
+	
+	padding-top: 30px;
+}
+
+.footer .second {
+	font-size: 14px;
+}
+
+/* ================= footer responsive done ==================== */
+
+}
